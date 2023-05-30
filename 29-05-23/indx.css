@@ -1,0 +1,15 @@
+.box{
+    display: flex;
+    /* flex-direction: row-reverse; */
+    justify-content: space-evenly;
+    border: 1px solid black;
+    align-items: center;
+    height: 100px;
+    /* width: 50%; */
+    background-color: rgb(233, 157, 59);
+}
+.box-gred{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+}
