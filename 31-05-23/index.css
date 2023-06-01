@@ -1,0 +1,27 @@
+#movie_show{
+    display: grid;
+    grid-template-columns: repeat(3,2fr);
+    background-color: antiquewhite;
+    
+}
+#movie_show img{
+    width: 100%;
+    height: 80%;
+    object-fit: cover;
+
+}
+.sty{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid black; */
+}
+.sty1{
+    
+    /* border: 2px solid black; */
+    background-color: grey;
+    margin:  10px 10px 50px 10px;
+    text-align: center;
+    /* height: 100%; */
+    box-shadow: 5px 5px 5px 5px black;
+}
