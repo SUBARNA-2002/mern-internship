@@ -1,0 +1,31 @@
+.sign-in-box{
+   
+    background: rgba(0, 0, 0, 0.7)
+    url("https://preview.colorlib.com/theme/bootstrap/login-form-20/images/bg.jpg");
+  background-size: cover;
+  background-blend-mode: darken;
+    /* filter: brightness(0.5); */
+    background-size: cover;
+    height: 100vh;
+    justify-content: center;
+    display: flex;
+    align-self: center;
+    
+}
+.box1{
+    margin:auto;
+    /* box-shadow: 10px 10px 10px black; */
+   
+    /* background-color: black; */
+    /* filter: brightness(1); */
+
+}
+.input1{
+    height: 3rem;
+    background-color: transparent;
+    width: 20rem;
+    border-radius: 8px;
+    opacity: 20px;
+    border: none;
+background-color: white;
+}
